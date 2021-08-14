@@ -17,3 +17,9 @@ Aprendiendo a integrar JS con HTML
 - **Segundo paso**: implementar las fórmulas en javascript.
 - **Tercer paso**: crear funciones.
 - **Cuarto paso**: integrar JS con HTML.
+
+## Taller #3: Promedio, media y moda
+
+- **Primer paso**: definir las fórmulas de promedio, media y moda.
+- **Segundo paso**: implementar las fórmulas y funciones en javascript.
+- **Cuarto paso**: integrar JS con HTML.
