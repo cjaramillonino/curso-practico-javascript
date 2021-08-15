@@ -1,11 +1,3 @@
-// const lista1 = [
-//   100,
-//   200,
-//   500,
-//   800,
-//   400000000,
-// ];
-
 function calcularMediaAritmetica(lista) {
   const sumaLista = lista.reduce(function (valorAcumulado = 0, nuevoElemento) {
     return valorAcumulado + nuevoElemento;
