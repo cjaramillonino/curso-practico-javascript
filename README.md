@@ -23,3 +23,9 @@ Aprendiendo a integrar JS con HTML
 - **Primer paso**: definir las fórmulas de promedio, media y moda.
 - **Segundo paso**: implementar las fórmulas y funciones en javascript.
 - **Cuarto paso**: integrar JS con HTML.
+
+## Taller #4: Calculando Salarios
+
+- **Primer paso**: definir las fórmulas de promedio, media y moda.
+- **Segundo paso**: implementar las fórmulas y funciones en javascript.
+- **Cuarto paso**: integrar JS con HTML.
